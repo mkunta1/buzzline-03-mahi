@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # buzzline-03-mahi
-=======
-# buzzline-03-case
+
 
 Streaming data does not have to be simple text.
 Many of us are familiar with streaming video content and audio (e.g. music) files.
@@ -257,4 +255,4 @@ Managing Python virtual environments is a valuable skill.
 This project is licensed under the MIT License as an example project.
 You are encouraged to fork, copy, explore, and modify the code as you like.
 See the [LICENSE](LICENSE.txt) file for more.
->>>>>>> 45786de8f4f97f440142478f2789185f8ffa575a
+

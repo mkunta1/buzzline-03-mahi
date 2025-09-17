@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aman Ruth",
+    "gender": "male",
+    "status": "has checked in at the hospital."
+  },
+  {
+    "name": "John Doe",
+    "gender": "male",
+    "status": "just arrived at the reception desk."
+  },
+  {
+    "name": "Jane Smith",
+    "gender": "female",
+    "status": "is here for their appointment."
+  },
+  {
+    "name": "Alex Kim",
+    "gender": "other",
+    "status": "completed the registration process."
+  },
+  {
+    "name": "Mary Johnson",
+    "gender": "female",
+    "status": "is waiting in the lobby.is with the provider."
+  },
+  {
+    "name": "David Lee",
+    "gender": "male",
+    "status": "has checked in at the hospital."
+  },
+  {
+    "name": "Samantha Brown",
+    "gender": "female",
+    "status": "just arrived at the reception desk."
+  },
+  {
+    "name": "Michael Clark",
+    "gender": "male",
+    "status": "just arrived at the reception desk."
+  },
+  {
+    "name": "Laura Green",
+    "gender": "female",
+    "status": "is here for their appointment."
+  },
+  {
+    "name": "Kevin Turner",
+    "gender": "male",
+    "status": "completed the registration process."
+  },
+  {
+    "name": "Emma Watson",
+    "gender": "female",
+    "status": "is waiting in the lobby."
+  },
+  {
+    "name": "Chris Evans",
+    "gender": "male",
+    "status": "is with the provider."
+  }
+]
